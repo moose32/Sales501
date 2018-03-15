@@ -26,7 +26,7 @@ namespace Sales501
             _rebates[12] = 0;
             _date = date;
         }
-
+        //
         public int rebates
         {
             get
